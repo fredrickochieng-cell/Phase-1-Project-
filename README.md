@@ -32,4 +32,4 @@ The analysis provides three major findings:
 3. **Operators and Countries:** Military operators (USAAF, USAF, RAF) and high-activity countries (USA, Russia, U.K.) dominate accident records, while commercial operators and other regions appear significantly safer.  
 
 **Recommendation:**  
-Avoid high-risk aircraft models and operators, and prioritize safer, lower-accident models and partnerships aligned with regions that demonstrate stronger safety performance.  
+Avoid high-risk aircraft models and operators, and prioritize safer, lower-accident models and partnerships aligned with regions that demonstrate stronger safety performance. 
