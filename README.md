@@ -1,7 +1,7 @@
 # Aviation Risk Analysis: Identifying Safer Aircraft Models for Purchase Recommendations  
 
 ## Overview  
-This project analyzes global aviation accident records to identify safer aircraft models and provide actionable insights for a company planning to expand into the aviation industry. Using data cleaning, aggregation, and visualization, the analysis highlights accident frequency, severity, and operator/country trends to support data-driven business recommendations.  
+This project analyzes global aviation accident records between 1919 and 2023 to identify safer aircraft models and provide actionable insights for my company that's planning to expand into the aviation industry. Using data cleaning, aggregation, and visualization, the analysis highlights accident frequency, severity, and operator/country trends to support data-driven business recommendations.  
 
 ## Business Understanding  
 The primary stakeholder is the head of the new aviation division, who requires evidence-based guidance on which aircraft to purchase for commercial and private operations.  
