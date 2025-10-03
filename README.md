@@ -36,4 +36,4 @@ Avoid high-risk aircraft models and operators, and prioritize safer, lower-accid
 
 **Tableau Dashboard Link:** 
 Below is a link to a tableau dashboard for the aviation risk analysis:
-https://public.tableau.com/app/profile/fredrick.ochieng1217/viz/Phase1Project-Dashboard_17594691905870/AviationRiskAnalysisDashboard 
+https://public.tableau.com/app/profile/fredrick.ochieng1217/viz/Phase1Project-Dashboard_17594691905870/AviationRiskAnalysisDashboard
